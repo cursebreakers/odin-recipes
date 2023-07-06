@@ -5,13 +5,26 @@
 
 #header {
     text-align: center;
-    background-color: #5F7470;
+    background-color: #16201F;
     color: white;
 }
 
 body {
-    background-color: #E0E2DB;
+    background-color: #16201F;
     accent-color: #5F7470;
+    color: #E0E2DB;
+}
+
+.book {
+    background-color: #080F11;
+    width: 420px;
+    padding: 8px;
+    margin: auto;
+}
+
+.parent {
+    font-weight: 800;
+    color: #E0E2DB;
 }
 
 .child {
@@ -22,19 +35,14 @@ body {
     padding-bottom:0.5%;
 }
 
-.parent {
-    font-weight: 800;
-    padding-top: 1%;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 10%;
+.link {
+    color: #E0E2DB;
 }
-
 
 footer {
     text-align: right;
     color: white;
-    background-color: #5F7470;
+    background-color: #16201F;
 }
 
 .footnote {
